@@ -1,25 +1,30 @@
-# IBM Consulting Advantage · AI Academy
+# ICA Learning · Agentes con contexto
 
-**Presentación publicada:** https://brun3y.github.io/ica-learning/
+**Presentación:** https://brun3y.github.io/ica-learning/
 
-El QR de la diapositiva 21 enlaza a esta URL.
+12 diapositivas en español para contabilidad y administración. Explican Document Collections, Tools y el creador no-code de ICA, desde la configuración hasta su uso futuro. El QR de la diapositiva 12 enlaza a la presentación.
 
-Presentación HTML de 23 diapositivas en español para equipos de contabilidad y administración: AP, AR, R2R, General Accounting y Business Management.
+Incluye capturas reales, notas del presentador y cinco recetas interactivas (AP, AR, R2R, General Accounting y administración). Cada receta permite copiar Name, Summary, Instructions, Sample Prompt o una descripción para el creador con IA; también se descarga completa en Markdown.
 
-Abre `index.html` en un navegador. La presentación incluye navegación por teclado, índice, notas del presentador, pantalla completa, prompts para copiar, un ejercicio con datos ficticios y descarga de una copia HTML. Las fuentes, las capturas y el QR se incorporan al HTML para que la copia sea portátil.
+Abre `index.html` en un navegador. Las fuentes, capturas y QR están incorporados para que la copia descargada funcione sin conexión. Los enlaces de ICA requieren conexión y acceso corporativo.
 
-- Flechas / espacio: navegar.
-- **O**: índice. **N**: notas. **F**: pantalla completa. **?**: ayuda.
-- **Ctrl/Cmd + P**: imprimir todas las diapositivas.
+- Flechas / espacio: navegar. **O**: índice. **N**: notas. **F**: pantalla completa. **?**: ayuda.
+- **Ctrl/Cmd + P**: imprimir las diapositivas.
+- Duración sugerida: 20 minutos más práctica.
 
-Duración sugerida: 30 minutos, 6 minutos de demo y preguntas.
-
-## Fuentes
+## Fuentes y verificación
 
 - [IBM Consulting Advantage](https://www.ibm.com/consulting/advantage)
-- [ICA Launchpad](https://servicesessentials.ibm.com/launchpad)
-- [Microsoft COUNTIFS](https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842)
+- [Document Collections](https://servicesessentials.ibm.com/chat/document-collections)
+- [Tools](https://servicesessentials.ibm.com/launchpad/mcp-servers)
+- [Agent Studio](https://servicesessentials.ibm.com/launchpad/agent-assistant-studio)
+- [Creador no-code](https://servicesessentials.ibm.com/assistant-library/compose)
+- [Library](https://servicesessentials.ibm.com/assistant-library)
 
-Consultadas el 2 de noviembre de 2026. Los ejemplos y resultados esperados son ficticios, preparados para capacitación; no son salidas verificadas de ICA. Se incluyen dos capturas reales de ICA, recortadas para excluir datos personales, navegación del usuario, equipos y conversaciones. Los PNG recortados se encuentran en `assets/ica-launchpad.png` y `assets/ica-advantage-assist.png`. No se publican datos de clientes. Las integraciones y los activos disponibles deben confirmarse para cada proyecto.
+Verificado en sesión autenticada el 2 de noviembre de 2026: formulario de Collection e indicación de uso con `#`; catálogo de Tools y detalle de Pandas; entradas al creador; Name, Summary, Instructions, Skills, Tools, Model y Sample Prompts; Documents and Files con selección de Collection y carga de archivos; Preview, Publish y Visibility; búsqueda, filtros y Chat de Library. Se exploró el creador vacío sin publicar un agente, cargar archivos o ejecutar herramientas.
 
-Material educativo elaborado por Edgar Bruney Castañeda. No es una publicación oficial de IBM. IBM e IBM Consulting Advantage son marcas de sus respectivos titulares. IBM Plex se distribuye bajo la [SIL Open Font License](assets/FONT-LICENSE.txt).
+Las capturas publicadas en `assets/ica-*.png` están recortadas para excluir datos personales, navegador, conversaciones y datos de clientes. Las capturas históricas del Launchpad y Chat se conservan como recursos. Las recetas son ejemplos ficticios de capacitación, no salidas verificadas de ICA ni políticas de clientes.
+
+Guardar instrucciones y vincular documentos permite reutilizar el criterio. Esto no garantiza memoria entre chats, lectura completa de todas las fuentes, sincronización automática de documentos ni ejecución en segundo plano. Las herramientas, modelos, permisos y límites pueden variar. El detalle de Pandas inspeccionado advierte que envía datos a un proveedor externo; revisa cada herramienta para tu proyecto.
+
+Material educativo de Edgar Bruney Castañeda, independiente de IBM. IBM e IBM Consulting Advantage son marcas de sus titulares. IBM Plex se distribuye bajo la [SIL Open Font License](assets/FONT-LICENSE.txt).
