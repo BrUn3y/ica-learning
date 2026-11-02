@@ -1,5 +1,9 @@
 # IBM Consulting Advantage · AI Academy
 
+**Presentación publicada:** https://brun3y.github.io/ica-presentation/
+
+El QR de la diapositiva 19 enlaza a esta URL.
+
 Presentación HTML en español para equipos de contabilidad y administración: AP, AR, R2R, General Accounting y Business Management.
 
 Abre `index.html` en un navegador. La presentación incluye navegación por teclado, índice, notas del presentador, pantalla completa, prompts para copiar, un ejercicio con datos ficticios y descarga de una copia HTML. Las fuentes y el QR se incorporan al HTML para que la copia sea portátil.
